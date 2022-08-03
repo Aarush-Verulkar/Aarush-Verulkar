@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarush Verulkar currently studying CE in FR.CRCE
 - 🌱 I’m currently learning competitive coding
-- 📕 I’m looking to pursue an honors degree in Cyber Security
+- 📕 I’m looking to pursue an honors degree in Artificial Intelligence and machine Learning
 
 
 <!---
